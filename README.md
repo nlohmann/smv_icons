@@ -26,7 +26,7 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 #### Pseudonyme Teilnahme möglich
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_programm.png-64.png" style="width: 300px;">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_pseodonym.png-64.png-64.png" style="width: 300px;">
 
 ### Delegationen
 
