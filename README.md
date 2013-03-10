@@ -4,13 +4,33 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ## Icons
 
-### 2 Kammern
+### Beschlussfassung
 
-https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png
+#### 2-Lammern
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png" style="width: 300px;">
 
 ### Akkreditierung
 
-https://raw.github.com/nlohmann/smv_icons/master/smv_akkreditierung.png
+#### Überprüfung bei Akkreditierung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_akkreditierung.png" style="width: 300px;">
+
+### Delegationen
+
+#### Unbeschränkte Delegationen
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation.png" style="width: 300px;">
+
+#### Präferenzdelegationen
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_prefdelegation.png" style="width: 300px;">
+
+### Versammlung
+
+#### Internet
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_internet.png" style="width: 300px;">
 
 
 ## Feedback
