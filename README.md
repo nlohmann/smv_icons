@@ -6,7 +6,7 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### 2 Kammern
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png" width="300">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png" style="width: 300px;">
 
 Es gibt zwei Kammern.
 
