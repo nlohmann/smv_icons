@@ -6,15 +6,27 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Beschlussfassung
 
-#### 2-Lammern
+#### 2-Kammern
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png" style="width: 300px;">
+
+#### Abstimmungsverfahren
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze.png" style="width: 300px;">
+
+#### Themenbereiche
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_themenbereiche.png" style="width: 300px;">
 
 ### Akkreditierung
 
 #### Überprüfung bei Akkreditierung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_akkreditierung.png" style="width: 300px;">
+
+#### Pseudonyme Teilnahme möglich
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_programm.png" style="width: 300px;">
 
 ### Delegationen
 
@@ -26,11 +38,47 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_prefdelegation.png" style="width: 300px;">
 
+### Beschlüsse
+
+#### Positionspapiere
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_positionspapier.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nopositionspapier.png" style="width: 300px;">
+
+#### Programm
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_programm.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_noprogramm.png" style="width: 300px;">
+
+#### Satzung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_satzung.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nosatzung.png" style="width: 300px;">
+
 ### Versammlung
+
+#### Ständige Versammlung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_staendig.png" style="width: 300px;">
 
 #### Internet
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_internet.png" style="width: 300px;">
+
+### Werkzeug
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_lqfb.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_piratefeedback.png" style="width: 300px;">
+
+### Datenschutz
+
+#### Speicherfrist
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_speicherfrist365.png" style="width: 300px;">
 
 
 ## Feedback
