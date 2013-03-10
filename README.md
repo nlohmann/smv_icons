@@ -9,3 +9,5 @@ Feedback, Anregungen, Wünsche, Kritik und Lob bitte an niels.lohmann@piraten-mv
 ## Credits
 
 Die Icons stehen unter CC-BY-SA Niels Lohmann zur freien Verfügung. Die Symbole nutzen [Font Awesome](http://fortawesome.github.com/Font-Awesome/) (CC-BY Dave Gandy).
+
+Das Logo der SMV MV ist von Frank Bürger.
