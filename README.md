@@ -2,6 +2,14 @@
 
 Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf der [SMVcon](http://smvcon.piratenpartei-mv.de) habe ich in einem [Vortrag](https://speakerdeck.com/piratenmv/smv-mv) diese Icons genutzt, um die [SMV in Mecklenburg-Vorpommern](http://smv.piratenpartei-mv.de) zu beschreiben. Diese Icons sind an denen von [Creative Commons](http://creativecommons.org) angelehnt in der Hoffnung, schnell erfassen zu können, was die jeweiligen Modelle fordern.
 
+## Icons
+
+### 2 Kammern
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png" width="300">
+
+Es gibt zwei Kammern.
+
 ## Feedback
 
 Feedback, Anregungen, Wünsche, Kritik und Lob bitte an niels.lohmann@piraten-mv.de.
