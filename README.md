@@ -80,6 +80,10 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_speicherfrist365.png-64.png" style="width: 300px;">
 
+### Avatar
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_mv.png-64.png" style="width: 300px;">
+
 
 ## Feedback
 
