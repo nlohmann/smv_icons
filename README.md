@@ -14,6 +14,14 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze.png-64.png" style="width: 300px;">
 
+#### Namentliche Abstimmung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_namentlich.png-64.png" style="width: 300px;">
+
+#### Antrag auf geheime Abstimmung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_geheim.png-64.png" style="width: 300px;">
+
 #### Themenbereiche
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_themenbereiche.png-64.png" style="width: 300px;">
