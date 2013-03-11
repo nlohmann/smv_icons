@@ -14,13 +14,23 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern.png-64.png" style="width: 300px;">
 
+#### Briefwahl
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_briefwahl.png-64.png" style="width: 300px;">
+
+#### Urnenwahl
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_urnenwahl.png-64.png" style="width: 300px;">
+
 #### Abstimmungsverfahren
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze.png-64.png" style="width: 300px;">
 
-#### Namentliche Abstimmung
+#### Namentliche / Anonyme Abstimmung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_namentlich.png-64.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_anonym.png-64.png" style="width: 300px;">
 
 #### Antrag auf geheime Abstimmung
 
@@ -49,6 +59,10 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Präferenzdelegationen
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_prefdelegation.png-64.png" style="width: 300px;">
+
+#### Keine Delegation
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nodelegation.png-64.png" style="width: 300px;">
 
 ### Beschlüsse
 
@@ -85,6 +99,8 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_lqfb.png-64.png" style="width: 300px;">
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_piratefeedback.png-64.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_wikiarguments.png-64.png" style="width: 300px;">
 
 ### Datenschutz
 
