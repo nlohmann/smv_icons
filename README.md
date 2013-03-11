@@ -46,6 +46,10 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_akkreditierung.png-64.png" style="width: 300px;">
 
+#### Bundeskiste
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_bundeskiste.png-64.png" style="width: 300px;">
+
 #### Pseudonyme Teilnahme möglich
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_pseodonym.png-64.png" style="width: 300px;">
