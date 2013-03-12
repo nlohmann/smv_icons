@@ -102,11 +102,13 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_regelmaessig_thumb.png">
 
-#### Internet/Mitgliederversammlung
+#### Internet/Mitgliederversammlung/dezentral
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_internet_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_mitgliederversammlung_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_dezentral_thumb.png">
 
 ### Werkzeug
 
