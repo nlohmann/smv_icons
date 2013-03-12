@@ -58,6 +58,12 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Delegationen
 
+#### Delegation / Keine Delegation
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation.png-64.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nodelegation.png-64.png" style="width: 300px;">
+
 #### Unbeschränkte / Beschränkte Delegationstiefe
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegationendless.png-64.png" style="width: 300px;">
@@ -67,12 +73,6 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Präferenzdelegationen
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_prefdelegation.png-64.png" style="width: 300px;">
-
-#### Delegation / Keine Delegation
-
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation.png-64.png" style="width: 300px;">
-
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nodelegation.png-64.png" style="width: 300px;">
 
 ### Beschlüsse
 
