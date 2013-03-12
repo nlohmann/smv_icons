@@ -26,12 +26,14 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 #### Abstimmungsverfahren
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze_thumb.png"> <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_approval_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_approval_thumb.png">
 
 #### Namentliche / Anonyme Abstimmung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_namentlich_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_anonym_thumb.png">
 
 #### Antrag auf geheime Abstimmung
@@ -61,13 +63,13 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Delegation / Keine Delegation
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nodelegation_thumb.png">
 
 #### Unbeschränkte / Beschränkte Delegationstiefe
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegationendless_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation1_thumb.png">
 
 #### Präferenzdelegationen
@@ -79,19 +81,19 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Positionspapiere
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_positionspapier_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nopositionspapier_thumb.png">
 
 #### Programm
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_programm_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_noprogramm_thumb.png">
 
 #### Satzung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_satzung_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nosatzung_thumb.png">
 
 ### Versammlung
@@ -99,21 +101,21 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Ständige/Regelmäßige Beschlussfassung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_staendig_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_regelmaessig_thumb.png">
 
 #### Internet/Mitgliederversammlung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_internet_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_mitgliederversammlung_thumb.png">
 
 ### Werkzeug
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_lqfb_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_piratefeedback_thumb.png">
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_wikiarguments_thumb.png">
 
 ### Datenschutz
