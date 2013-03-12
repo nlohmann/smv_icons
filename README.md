@@ -98,9 +98,11 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Versammlung
 
-#### Ständige Versammlung
+#### Ständige/Regelmäßige Beschlussfassung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_staendig_thumb.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_regelmaessig_thumb.png" style="width: 300px;">
 
 #### Internet
 
