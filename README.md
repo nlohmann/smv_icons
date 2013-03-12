@@ -26,9 +26,7 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 #### Abstimmungsverfahren
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze_thumb.png">
-
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_approval_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze_thumb.png"> <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_approval_thumb.png">
 
 #### Namentliche / Anonyme Abstimmung
 
