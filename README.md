@@ -4,6 +4,8 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ## Icons
 
+**Achtung**: Diese Liste ist noch nicht vollständig. Wenn deiner Meinung nach ein Icon fehlt, sag einfach bei <niels.lohmann@piraten-mv.de> Bescheid. Danke!
+
 ### Beschlussfassung
 
 #### Liquid Democracy
@@ -56,15 +58,19 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Delegationen
 
-#### Unbeschränkte Delegationen
+#### Unbeschränkte / Beschränkte Delegationstiefe
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation.png-64.png" style="width: 300px;">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegationendless.png-64.png" style="width: 300px;">
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation1.png-64.png" style="width: 300px;">
 
 #### Präferenzdelegationen
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_prefdelegation.png-64.png" style="width: 300px;">
 
-#### Keine Delegation
+#### Delegation / Keine Delegation
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation.png-64.png" style="width: 300px;">
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nodelegation.png-64.png" style="width: 300px;">
 
