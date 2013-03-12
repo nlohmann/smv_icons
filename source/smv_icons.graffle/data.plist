@@ -38,7 +38,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-03-12 01:43:39 +0000</string>
+	<string>2013-03-12 01:55:37 +0000</string>
 	<key>Modifier</key>
 	<string>Niels Lohmann</string>
 	<key>NotesVisible</key>
@@ -2845,7 +2845,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{220.5, 101}, {46, 99}}</string>
+					<string>{{220.5, 187}, {46, 99}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -3038,6 +3038,233 @@
 			<string>Canvas 6</string>
 			<key>UniqueID</key>
 			<integer>6</integer>
+			<key>VPages</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>ActiveLayerIndex</key>
+			<integer>0</integer>
+			<key>AutoAdjust</key>
+			<true/>
+			<key>BackgroundGraphic</key>
+			<dict>
+				<key>Bounds</key>
+				<string>{{0, 0}, {559, 783}}</string>
+				<key>Class</key>
+				<string>SolidGraphic</string>
+				<key>ID</key>
+				<integer>2</integer>
+				<key>Style</key>
+				<dict>
+					<key>shadow</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
+					<key>stroke</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>BaseZoom</key>
+			<integer>0</integer>
+			<key>CanvasOrigin</key>
+			<string>{0, 0}</string>
+			<key>ColumnAlign</key>
+			<integer>1</integer>
+			<key>ColumnSpacing</key>
+			<real>36</real>
+			<key>DisplayScale</key>
+			<string>1.000 cm = 1.000 cm</string>
+			<key>GraphicsList</key>
+			<array>
+				<dict>
+					<key>Bounds</key>
+					<string>{{197, 194}, {93, 86}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FitText</key>
+					<string>YES</string>
+					<key>Flow</key>
+					<string>Resize</string>
+					<key>ID</key>
+					<integer>6</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf370
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-CondensedBold;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\b\fs142 \cf1 Ute}</string>
+						<key>VerticalPad</key>
+						<integer>0</integer>
+					</dict>
+					<key>Wrap</key>
+					<string>NO</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{166, 92}, {155, 201}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FitText</key>
+					<string>YES</string>
+					<key>Flow</key>
+					<string>Resize</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>0</string>
+							<key>g</key>
+							<string>0</string>
+							<key>r</key>
+							<string>0</string>
+						</dict>
+						<key>Font</key>
+						<string>FontAwesome</string>
+						<key>Size</key>
+						<real>195</real>
+					</dict>
+					<key>ID</key>
+					<integer>8</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Align</key>
+						<integer>0</integer>
+						<key>Pad</key>
+						<integer>0</integer>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf370
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 FontAwesome;}
+{\colortbl;\red255\green255\blue255;}
+\deftab720
+\pard\pardeftab720
+
+\f0\fs392 \cf0 \uc0\u61447 }</string>
+						<key>VerticalPad</key>
+						<integer>0</integer>
+					</dict>
+					<key>Wrap</key>
+					<string>NO</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{112, 61}, {263, 263}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>3</integer>
+					<key>Shape</key>
+					<string>Circle</string>
+					<key>Style</key>
+					<dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Width</key>
+							<real>20</real>
+						</dict>
+					</dict>
+				</dict>
+			</array>
+			<key>GridInfo</key>
+			<dict/>
+			<key>HPages</key>
+			<integer>1</integer>
+			<key>KeepToScale</key>
+			<false/>
+			<key>Layers</key>
+			<array>
+				<dict>
+					<key>Lock</key>
+					<string>NO</string>
+					<key>Name</key>
+					<string>Layer 1</string>
+					<key>Print</key>
+					<string>YES</string>
+					<key>View</key>
+					<string>YES</string>
+				</dict>
+			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>circoSeparation</key>
+				<real>0.0</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoSeparation</key>
+				<real>0.0</real>
+				<key>twopiSeparation</key>
+				<real>0.0</real>
+			</dict>
+			<key>Orientation</key>
+			<integer>2</integer>
+			<key>PrintOnePage</key>
+			<false/>
+			<key>RowAlign</key>
+			<integer>1</integer>
+			<key>RowSpacing</key>
+			<real>36</real>
+			<key>SheetTitle</key>
+			<string>Canvas 36</string>
+			<key>UniqueID</key>
+			<integer>38</integer>
 			<key>VPages</key>
 			<integer>1</integer>
 		</dict>
@@ -3968,8 +4195,8 @@
 					<integer>18</integer>
 					<key>Points</key>
 					<array>
-						<string>{229.30643411380524, 225.37093306288929}</string>
-						<string>{202.69356588466081, 172.62906693788509}</string>
+						<string>{229.30643411415321, 225.37093306271362}</string>
+						<string>{202.6935658856612, 172.62906693738006}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -4254,8 +4481,8 @@
 					<integer>18</integer>
 					<key>Points</key>
 					<array>
-						<string>{229.30643411415321, 225.37093306271362}</string>
-						<string>{202.6935658856612, 172.62906693738006}</string>
+						<string>{229.3064341141953, 225.37093306269236}</string>
+						<string>{202.69356588578225, 172.62906693731895}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -4666,8 +4893,8 @@
 					<integer>19</integer>
 					<key>Points</key>
 					<array>
-						<string>{264.68877091572477, 260.72386355331111}</string>
-						<string>{305.30903466896171, 235.27263911781301}</string>
+						<string>{264.68926514216304, 260.7246515693767}</string>
+						<string>{305.31047691807987, 235.27493746266174}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -4705,8 +4932,8 @@
 					<integer>18</integer>
 					<key>Points</key>
 					<array>
-						<string>{181.68915244508463, 235.27552419776276}</string>
-						<string>{222.31015482006819, 260.72557942597786}</string>
+						<string>{181.6893085213452, 235.27527556654351}</string>
+						<string>{222.31061006319101, 260.72485412624189}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -5059,8 +5286,8 @@
 					<integer>19</integer>
 					<key>Points</key>
 					<array>
-						<string>{264.68932325896941, 260.72474415365821}</string>
-						<string>{305.31064642433711, 235.27520755229841}</string>
+						<string>{264.68933008910699, 260.72475503386011}</string>
+						<string>{305.31066634807422, 235.27523929070063}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -5098,8 +5325,8 @@
 					<integer>18</integer>
 					<key>Points</key>
 					<array>
-						<string>{181.6893268636376, 235.27524634793494}</string>
-						<string>{222.31066356845423, 260.72476889337548}</string>
+						<string>{181.6893290192057, 235.27524291419982}</string>
+						<string>{222.31066985638427, 260.724758876941}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -9563,7 +9790,7 @@
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>25</integer>
+		<integer>12</integer>
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
@@ -9758,6 +9985,11 @@
 			</array>
 			<array>
 				<string>Canvas 35</string>
+				<real>1</real>
+				<real>1</real>
+			</array>
+			<array>
+				<string>Canvas 36</string>
 				<real>1</real>
 				<real>1</real>
 			</array>

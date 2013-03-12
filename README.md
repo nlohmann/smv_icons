@@ -52,9 +52,11 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_bundeskiste_thumb.png">
 
-#### Pseudonyme Teilnahme möglich
+#### Pseudonyme Teilnahme / Klarnamen
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_pseodonym_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_klarnamen_thumb.png">
 
 ### Delegationen
 
@@ -96,13 +98,13 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Versammlung
 
-#### Ständige/Regelmäßige Beschlussfassung
+#### Ständige / Regelmäßige Beschlussfassung
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_staendig_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_regelmaessig_thumb.png">
 
-#### Internet/Mitgliederversammlung/dezentral
+#### Internet / Mitgliederversammlung / dezentral
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_internet_thumb.png">
 &nbsp;
