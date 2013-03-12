@@ -46,12 +46,10 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Akkreditierung
 
-#### Überprüfung bei Akkreditierung
+#### Personalausweis / Bundeskiste
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_akkreditierung_thumb.png">
-
-#### Bundeskiste
-
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_bundeskiste_thumb.png">
 
 #### Pseudonyme Teilnahme möglich
@@ -117,6 +115,8 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_piratefeedback_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/smv_wikiarguments_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_limesurvey_thumb.png">
 
 ### Datenschutz
 
