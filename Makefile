@@ -11,9 +11,5 @@ thumbs: $(patsubst %.pdf,%_thumb.png,$(icons))
 %.png: %.pdf
 	convert -density 96 -quality 85 -resize 512x512 $< $@
 
-upload:
-	git commit -m 'update'
-	git push origin master
-
 clean:
 	rm -f *.png
