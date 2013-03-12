@@ -66,11 +66,13 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nodelegation_thumb.png">
 
-#### Unbeschränkte / Beschränkte Delegationstiefe
+#### Unbeschränkte / Beschränkte Delegationstiefe / Delegationsverfall
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_delegationendless_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_delegation1_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_delegationtime_thumb.png">
 
 #### Präferenzdelegationen
 
