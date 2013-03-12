@@ -10,123 +10,123 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 #### Liquid Democracy
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_liquiddemocracy_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_liquiddemocracy_thumb.png">
 
 #### 2-Kammern
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_2kammern_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_2kammern_thumb.png">
 
 #### Briefwahl
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_briefwahl_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_briefwahl_thumb.png">
 
 #### Urnenwahl
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_urnenwahl_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_urnenwahl_thumb.png">
 
 #### Abstimmungsverfahren
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_schulze_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_schulze_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_approval_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_approval_thumb.png">
 
 #### Namentliche / Anonyme Abstimmung
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_namentlich_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_namentlich_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_anonym_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_anonym_thumb.png">
 
 #### Antrag auf geheime Abstimmung
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_geheim_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_geheim_thumb.png">
 
 #### Themenbereiche
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_themenbereiche_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_themenbereiche_thumb.png">
 
 ### Akkreditierung
 
 #### Personalausweis / Bundeskiste
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_akkreditierung_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_akkreditierung_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_bundeskiste_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_bundeskiste_thumb.png">
 
 #### Pseudonyme Teilnahme möglich
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_pseodonym_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_pseodonym_thumb.png">
 
 ### Delegationen
 
 #### Delegation / Keine Delegation
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_delegation_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nodelegation_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nodelegation_thumb.png">
 
 #### Unbeschränkte / Beschränkte Delegationstiefe
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegationendless_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_delegationendless_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_delegation1_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_delegation1_thumb.png">
 
 #### Präferenzdelegationen
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_prefdelegation_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_prefdelegation_thumb.png">
 
 ### Beschlüsse
 
 #### Positionspapiere
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_positionspapier_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_positionspapier_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nopositionspapier_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nopositionspapier_thumb.png">
 
 #### Programm
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_programm_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_programm_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_noprogramm_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_noprogramm_thumb.png">
 
 #### Satzung
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_satzung_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_satzung_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_nosatzung_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nosatzung_thumb.png">
 
 ### Versammlung
 
 #### Ständige/Regelmäßige Beschlussfassung
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_staendig_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_staendig_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_regelmaessig_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_regelmaessig_thumb.png">
 
 #### Internet/Mitgliederversammlung
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_internet_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_internet_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_mitgliederversammlung_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_mitgliederversammlung_thumb.png">
 
 ### Werkzeug
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_lqfb_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_lqfb_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_piratefeedback_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_piratefeedback_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_wikiarguments_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_wikiarguments_thumb.png">
 &nbsp;
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_limesurvey_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_limesurvey_thumb.png">
 
 ### Datenschutz
 
 #### Speicherfrist
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_speicherfrist365_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_speicherfrist365_thumb.png">
 
 ### Avatar
 
-<img src="https://raw.github.com/nlohmann/smv_icons/master/smv_mv_thumb.png">
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_mv_thumb.png">
 
 
 ## Feedback
