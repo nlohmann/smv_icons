@@ -19,11 +19,12 @@
 <g id="surface1">
 <path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 336.484375 99.515625 C 387.839844 150.871094 387.839844 234.128906 336.484375 285.484375 C 285.128906 336.839844 201.871094 336.839844 150.515625 285.484375 C 99.160156 234.128906 99.160156 150.871094 150.515625 99.515625 C 201.871094 48.160156 285.128906 48.160156 336.484375 99.515625 " transform="matrix(1,0,0,1,-100.5,-49.5)"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph0-1" x="105.4815" y="134"/>
+  <use xlink:href="#glyph0-1" x="70.9815" y="134"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-2" x="70.5" y="228"/>
   <use xlink:href="#glyph0-3" x="136.323" y="228"/>
 </g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 151 93.5 L 175 141.5 L 199 93.5 L 175 45.5 Z "/>
 </g>
 </svg>
