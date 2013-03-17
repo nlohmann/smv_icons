@@ -18,7 +18,7 @@
 	<key>GuidesVisible</key>
 	<string>YES</string>
 	<key>ImageCounter</key>
-	<integer>7</integer>
+	<integer>9</integer>
 	<key>ImageLinkBack</key>
 	<array>
 		<dict/>
@@ -27,9 +27,9 @@
 	</array>
 	<key>ImageList</key>
 	<array>
+		<string>image8.pdf</string>
 		<string>image5.pdf</string>
 		<string>image4.pdf</string>
-		<string>image1.pdf</string>
 	</array>
 	<key>LinksVisible</key>
 	<string>NO</string>
@@ -38,7 +38,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-03-17 21:39:07 +0000</string>
+	<string>2013-03-17 21:45:05 +0000</string>
 	<key>Modifier</key>
 	<string>Niels Lohmann</string>
 	<key>NotesVisible</key>
@@ -249,13 +249,13 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{188, 172}, {87, 87}}</string>
+					<string>{{193, 167}, {66.956520080566406, 88}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>10</integer>
+					<integer>11</integer>
 					<key>ImageID</key>
-					<integer>1</integer>
+					<integer>8</integer>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -457,6 +457,36 @@
 			<key>GraphicsList</key>
 			<array>
 				<dict>
+					<key>Bounds</key>
+					<string>{{193, 167}, {66.956520080566406, 88}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>ID</key>
+					<integer>11</integer>
+					<key>ImageID</key>
+					<integer>8</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
@@ -480,36 +510,6 @@
 							<string>0</string>
 							<key>Width</key>
 							<real>30</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{188, 172}, {87, 87}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>ID</key>
-					<integer>10</integer>
-					<key>ImageID</key>
-					<integer>1</integer>
-					<key>Shape</key>
-					<string>Rectangle</string>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 				</dict>
@@ -10204,7 +10204,7 @@
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>8</integer>
+		<integer>2</integer>
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
@@ -10222,7 +10222,7 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, 23}, {558, 739}}</string>
+		<string>{{0, 0}, {558, 739}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
