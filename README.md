@@ -46,11 +46,13 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ### Akkreditierung
 
-#### Personalausweis / Bundeskiste
+#### Personalausweis / Bundeskiste / PostIdent
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_akkreditierung_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_bundeskiste_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_postident_thumb.png">
 
 #### Pseudonyme Teilnahme / Klarnamen
 
@@ -104,6 +106,12 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nosatzung_thumb.png">
 
+#### Geschäftsordnung der SMV
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_go_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nogo_thumb.png">
+
 ### Versammlung
 
 #### Ständige / Regelmäßige Beschlussfassung
@@ -111,6 +119,12 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_staendig_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_regelmaessig_thumb.png">
+
+#### SMV als Versammlungsform des BPTs / eigenes Organ
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_bpt_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nobpt_thumb.png">
 
 #### Internet / Mitgliederversammlung / dezentral
 
