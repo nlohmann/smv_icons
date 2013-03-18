@@ -58,6 +58,12 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_klarnamen_thumb.png">
 
+#### Zeitliche Beschränkung / unbeschränkte Akkreditierung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_akkreditierung365_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_akkreditierungimmer_thumb.png">
+
 ### Delegationen
 
 #### Delegation / Keine Delegation
@@ -129,6 +135,21 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Speicherfrist
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_speicherfrist365_thumb.png">
+
+### Meta
+
+#### Regelung in Satzung / Geschäfsordnung
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_metasatzung_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_metago_thumb.png">
+
+#### Regelung betrifft 1. / 2. Kammer
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_metakammer1_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_metakammer2_thumb.png">
+
 
 ### Avatar
 
