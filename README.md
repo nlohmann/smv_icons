@@ -35,6 +35,8 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_namentlich_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_anonym_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nogeheim_thumb.png">
 
 #### Antrag auf geheime Abstimmung
 
@@ -65,6 +67,14 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_akkreditierung365_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_akkreditierungimmer_thumb.png">
+
+
+#### Überprüfbarkeit der Akkreditierung selbst / durch Schiedsgericht
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_ueberpruefungselbst_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_ueberpruefungsg_thumb.png">
+
 
 ### Delegationen
 
@@ -112,6 +122,10 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nogo_thumb.png">
 
+#### Personenwahlen
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nopersonen_thumb.png">
+
 ### Versammlung
 
 #### Ständige / Regelmäßige Beschlussfassung
@@ -126,13 +140,15 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nobpt_thumb.png">
 
-#### Internet / Mitgliederversammlung / dezentral
+#### Internet / Mitgliederversammlung / dezentral / Untergliederungen
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_internet_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_mitgliederversammlung_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_dezentral_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_untergliederungen_thumb.png">
 
 ### Werkzeug
 
@@ -149,6 +165,10 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Speicherfrist
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_speicherfrist365_thumb.png">
+
+#### Datenbank-Download
+
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_dbdownload_thumb.png">
 
 ### Meta
 
