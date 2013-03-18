@@ -36,6 +36,8 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_namentlich_thumb.png">
 &nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nonamentlich_thumb.png">
+&nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_anonym_thumb.png">
 &nbsp;
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_nogeheim_thumb.png">
