@@ -11,6 +11,8 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 #### Liquid Democracy
 
 <img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_liquiddemocracy_thumb.png">
+&nbsp;
+<img src="https://raw.github.com/nlohmann/smv_icons/master/thumbs/smv_noliquiddemocracy_thumb.png">
 
 #### 2-Kammern
 
