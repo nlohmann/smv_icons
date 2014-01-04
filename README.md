@@ -196,7 +196,7 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ## Feedback
 
-Feedback, Anregungen, Wünsche, Kritik und Lob bitte an niels.lohmann@piraten-mv.de.
+Feedback, Anregungen, Wünsche, Kritik und Lob bitte an niels.lohmann@gmail.com.
 
 ## Credits
 
