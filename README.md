@@ -4,7 +4,7 @@ Hier entsteht eine Sammlung von Icons zur Klassifikation von SMV-Modellen. Auf d
 
 ## Icons
 
-**Achtung**: Diese Liste ist noch nicht vollständig. Wenn deiner Meinung nach ein Icon fehlt, sag einfach bei <niels.lohmann@piraten-mv.de> Bescheid. Danke!
+**Achtung**: Diese Liste ist noch nicht vollständig. Wenn deiner Meinung nach ein Icon fehlt, sag einfach bei <niels.lohmann@gmail.com> Bescheid. Danke!
 
 ### Beschlussfassung
 
